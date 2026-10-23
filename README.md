@@ -2,7 +2,7 @@ Saucedemo UI Automation Framework
 
 This repository contains a robust, scalable UI automation framework built to test the Saucedemo web application. It implements industry-standard software engineering practices, specifically the Page Object Model (POM) architecture and data-driven testing.
 
-🛠️ Tech Stack
+◉ Tech Stack
 
 Language: Python 3.11
 
@@ -12,7 +12,7 @@ Browser Automation: Playwright
 
 CI/CD: GitHub Actions (Automated cloud execution)
 
-🚀 Key Features
+◉ Key Features
 
 Page Object Model (POM): UI locators and test execution logic are strictly separated for high maintainability and cleaner code.
 
@@ -20,14 +20,14 @@ Data-Driven Testing: Edge cases (e.g., valid user vs. locked-out user scenarios)
 
 Continuous Integration: Fully integrated with GitHub Actions to trigger automated test runs in the cloud on every push.
 
-⚙️ Local Setup
+◉ Local Setup
 
 To run this project on your local machine, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/Sivanesh4321/saucedemo-ui-automation.git
-cd saucedemo-ui-automation
+git clone https://github.com/Sivanesh4321/Saucedemo-UI-Automation.git
+cd Saucedemo-UI-Automation
 
 
 Install dependencies:
@@ -40,7 +40,7 @@ Install Playwright browsers:
 playwright install
 
 
-🧪 Running the Tests
+◉ Running the Tests
 
 To execute the automation suite, use the following Pytest commands:
 
